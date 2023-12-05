@@ -6,3 +6,18 @@ header {
   box-sizing: border-box;
   padding: 20px;
 }
+main {
+  main {
+    min-height: 600 px;
+
+    background-color: #999999;
+
+    border-radius: 10 px;
+
+    font-size: 30 px;
+
+    box-sizing: border-box;
+
+    padding: 20 px;
+  }
+}
