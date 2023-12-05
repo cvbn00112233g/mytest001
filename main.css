@@ -8,15 +8,15 @@ header {
 }
 
 main {
-  min-height: 600 px;
+  min-height: 600px;
 
   background-color: #999999;
 
-  border-radius: 10 px;
+  border-radius: 10px;
 
-  font-size: 30 px;
+  font-size: 30px;
 
   box-sizing: border-box;
 
-  padding: 20 px;
+  padding: 20px;
 }
